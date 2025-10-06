@@ -1,62 +1,75 @@
-# 👋 Hi there, I'm Gowri Sai  
+<h1 align="center">👋 Hey there, I'm <span style="color:#ff6600;">Gowri Sai</span>!</h1>
 
-🚀 *Undergraduate | AI & Machine Learning Enthusiast | Developer | Innovator*  
-
----
-
-## 💡 About Me  
-
-- Passionate about solving real-world problems through Artificial Intelligence, Deep Learning, and Smart Applications.  
-- Focused on building impactful projects in the domains of Agriculture, Automation, and Intelligent Systems.  
-- Exploring the world of data, algorithms, and full-stack development.  
-- Always learning, experimenting, and improving every day 🌱  
+<p align="center">
+  <b>💻 AI/ML Developer | 🤖 Deep Learning Explorer | 🌍 Tech Creator</b><br>
+  🚀 Turning code into intelligent systems | Passionate about building impactful AI projects
+</p>
 
 ---
 
-## 🧠 Skills & Tools  
-
-| Domain | Tools / Technologies |
-|--------|------------------------|
-| **Languages** | Python, C++, JavaScript |
-| **AI / ML / DL** | TensorFlow, PyTorch, Scikit-learn, OpenCV |
-| **Data Handling** | Pandas, NumPy, Matplotlib |
-| **Web / App Development** | HTML, CSS, JavaScript, Node.js, React.js |
-| **Other Tools** | Git, VS Code, Arduino, Streamlit, Firebase |
+### 🧠 About Me  
+🌟 Undergraduate passionate about Artificial Intelligence, Deep Learning & Smart Solutions.  
+💡 Building real-world applications that merge innovation with intelligence.  
+🔥 Currently exploring Generative AI, Computer Vision, and NLP.  
+🎯 Mission: To craft data-driven solutions that make life smarter and simpler.
 
 ---
 
-## 📂 Featured Projects  
+### ⚙️ Tech Stack
 
-- 🌾 **Harvestify** — A smart farming assistant featuring crop recommendation, fertilizer prediction, and disease detection.  
-- 🍃 **Leaf Disease Detection (CNN)** — Deep learning model to detect and classify plant diseases.  
-- 📄 **Resume Analyzer (NLP)** — A Streamlit app that analyzes resumes and recommends learning paths.  
-- 🏠 **House Rental Management System** — A full-stack PHP & JavaScript system for managing rentals with online payments.  
-- 🤖 **Automatic Pill Dispenser (Arduino)** — A hardware project for contactless medicine dispensing with real-time clock and alerts.
+#### 🧩 Programming & Development  
+`Python` | `C++` | `JavaScript` | `Node.js` | `React.js` | `HTML` | `CSS`
 
----
+#### 🧠 AI / ML / DL  
+`TensorFlow` | `PyTorch` | `Scikit-learn` | `OpenCV` | `NumPy` | `Pandas`
 
-## 🏆 Achievements & Interests  
-
-- 💻 Building AI-powered solutions for agriculture and automation.  
-- 🎯 Interested in Deep Learning, NLP, and Edge AI.  
-- 🧩 Participated in software contests, hackathons, and capstone projects.  
-- ✍️ Sharing knowledge through tutorials and tech posts on Instagram.
+#### 🗃️ Databases & Tools  
+`Firebase` | `MongoDB` | `Git` | `VS Code` | `Arduino` | `Streamlit`
 
 ---
 
-## 📈 GitHub Stats  
+### 🚀 Featured Projects
 
-![Gowri Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KunchapuGowriSai&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KunchapuGowriSai&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Connect with Me  
-
-- 📧 **Email:** kunchapugowrisai143@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/kunchapu-gowri-sai](https://linkedin.com/in/kunchapu-gowri-sai)  
-- 📸 **Instagram:** [instagram.com/kunchapu_gowrisai](https://instagram.com/kunchapu_gowrisai)  
+| 🧠 Project | 💡 Description |
+|------------|----------------|
+| 🌾 **Harvestify** | Smart farming system featuring crop recommendation, fertilizer suggestion & disease detection. |
+| 🍃 **Leaf Disease Detection (CNN)** | Deep learning-based plant disease classifier using image recognition. |
+| 📄 **Resume Analyzer (NLP)** | Streamlit-based AI app for resume parsing & personalized learning recommendations. |
+| 🏠 **House Rental Management System** | Full-stack PHP & JS platform with Cashfree payment integration. |
+| 💊 **Automatic Pill Dispenser** | Arduino-powered smart device for contactless medicine dispensing with alarms. |
 
 ---
 
-✨ *"Code. Create. Contribute. Every project is a step closer to innovation!"*  
+### 🏆 Achievements & Interests  
+✨ Participated in multiple software contests & hackathons.  
+🌱 Constantly learning new frameworks & emerging AI technologies.  
+🧠 Interested in **Deep Learning**, **Edge AI**, and **Generative AI**.  
+📚 Sharing coding tutorials & project guides on Instagram.  
+
+---
+
+### 📊 GitHub Insights  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KunchapuGowriSai&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunchapuGowriSai&layout=compact&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KunchapuGowriSai&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌐 Connect with Me  
+
+<p align="center">
+  <a href="mailto:kunchapugowrisai143@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kunchapu-gowri-sai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/KunchapuGowriSai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://instagram.com/kunchapu_gowrisai"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
+
+---
+
+<h3 align="center">✨ “Code. Create. Contribute. Every line brings innovation closer.” ✨</h3>
