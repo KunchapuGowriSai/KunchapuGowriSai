@@ -96,7 +96,7 @@
 ### 🧩 3D Contribution Graph  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/docs/demo.gif" width="600px" />
+  <img src="https://raw.githubusercontent.com/kunchapugowrisai/github-readme-3d-contrib/main/docs/demo.gif" width="600px" />
 </p>
 
 > *(You can enable your real 3D graph by following the “github-readme-3d-contrib” setup.)*
