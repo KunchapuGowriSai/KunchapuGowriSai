@@ -14,9 +14,9 @@
 
 ### 🧠 About Me  
 
-🌟 *Undergraduate Developer* passionate about **AI**, **ML**, and **Deep Learning for Real-World Impact**.  
-🧩 Focused on building projects that blend **intelligence, creativity, and utility**.  
-💡 Exploring **Generative AI**, **Computer Vision**, and **Edge AI Systems**.  
+🌟 *Aspiring AI/ML Developer* passionate about solving real-world problems with **Deep Learning** and **Intelligent Automation**.  
+🧠 Currently exploring cutting-edge areas like **Generative AI**, **Computer Vision**, and **Edge AI**.  
+🚀 I love building projects that blend **innovation, utility, and social impact**.  
 🔥 Motto: *Think Different. Code Brilliant.*  
 
 ---
@@ -29,58 +29,58 @@
 
 ---
 
-### 🚀 Featured Projects  
+### 🚀 Highlight Projects  
 
 #### 🌾 **Harvestify – Smart Farming Assistant**
-> _Crop & fertilizer recommendation, disease detection using ML and image processing._  
+> _AI-powered platform offering crop recommendations, fertilizer suggestions, and plant disease detection._  
 **Tech:** `Python` | `Flask` | `TensorFlow` | `Streamlit`  
-🧠 *Empowering farmers through AI-driven insights.*  
-🔗 [Demo / Repo](#)
+🧠 *Empowering farmers with intelligent, data-driven tools.*  
+🔗 [Live Demo / Repo](#)
 
 ---
 
-#### 🍃 **Leaf Disease Detector (CNN Based)**
-> _CNN-powered system to detect and classify plant diseases from images._  
+#### 🍃 **Leaf Disease Detection System**
+> _CNN-based application to identify and classify plant leaf diseases from images._  
 **Tech:** `PyTorch` | `OpenCV` | `Deep Learning`  
-🧩 *Trained custom datasets for accurate plant diagnostics.*  
+📸 *Built and trained on a custom image dataset for agricultural use cases.*  
 🔗 [Project Link](#)
 
 ---
 
-#### 📄 **Resume Analyzer – NLP Based Career Guide**
-> _Analyzes resumes and provides personalized learning recommendations via NLP._  
-**Tech:** `Python` | `NLP` | `Streamlit` | `YouTube API`  
-🤖 *Bridging career growth with data-driven insights.*  
-🔗 [Repo](#)
+#### 📄 **Resume Analyzer – NLP Career Recommender**
+> _Analyzes uploaded resumes and recommends personalized learning paths using NLP._  
+**Tech:** `Python` | `Streamlit` | `YouTube API` | `NLP`  
+🧠 *A career guide that bridges skills with learning content.*  
+🔗 [Repository](#)
 
 ---
 
 #### 🏠 **House Rental Management System**
-> _Full-stack web app for managing properties and payments securely._  
-**Tech:** `PHP` | `JavaScript` | `Cashfree API` | `MySQL`  
-💰 *Simplified rent management for owners & tenants.*  
-🔗 [Repo](#)
+> _Full-stack web platform for secure rental property and payment management._  
+**Tech:** `PHP` | `JavaScript` | `MySQL` | `Cashfree API`  
+💼 *Designed for landlords and tenants to streamline rental workflows.*  
+🔗 [Source Code](#)
 
 ---
 
-#### 💊 **Smart Pill Dispenser (IoT + Arduino)**
-> _Automated contactless pill dispenser with alarms and real-time clock display._  
-**Tech:** `Arduino` | `LCD` | `Embedded C` | `IoT`  
-⚙️ *Assistive healthcare innovation for daily medication tracking.*  
-🔗 [Demo](#)
+#### 💊 **Smart Pill Dispenser (IoT Project)**
+> _Arduino-based automatic pill dispenser with alarm, real-time clock, and display system._  
+**Tech:** `Arduino` | `Embedded C` | `LCD Module` | `IoT`  
+🩺 *Enhancing healthcare routines through assistive automation.*  
+🔗 [Demo Video](#)
 
 ---
 
-### 🏆 Achievements & Highlights  
+### 🏆 Achievements & Activities  
 
-🏅 Developed 10+ AI/ML projects integrating real-world data and models.  
-🧩 Participated in national hackathons and software contests.  
-📸 Sharing coding tutorials, AI experiments, and project breakdowns on social media.  
-🧠 Exploring **Generative AI**, **IoT**, and **AI-powered Automation**.  
+- ✅ Built **10+ AI/ML projects** with real-world applications and deployment.  
+- 🧠 Participated in multiple **national-level hackathons** and coding challenges.  
+- 📸 Sharing tech tutorials and project demos via social media.  
+- 🔍 Currently diving deeper into **Generative AI**, **IoT**, and **automation in edge computing**.
 
 ---
 
-### 📊 GitHub Performance  
+### 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KunchapuGowriSai&show_icons=true&theme=radical&hide_border=true" height="165" />
@@ -99,11 +99,11 @@
   <img src="https://raw.githubusercontent.com/kunchapugowrisai/github-readme-3d-contrib/main/docs/demo.gif" width="600px" />
 </p>
 
-> *(You can enable your real 3D graph by following the “github-readme-3d-contrib” setup.)*
+> *Enable your own 3D graph using [github-readme-3d-contrib](https://github.com/yushan337/github-readme-3d-contrib).*
 
 ---
 
-### 🛰️ Activity Graph  
+### 🛰️ GitHub Activity Graph  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KunchapuGowriSai&theme=react-dark&hide_border=true&area=true" width="100%"/>
@@ -111,7 +111,7 @@
 
 ---
 
-### 🌐 Connect with Me  
+### 🌐 Let's Connect  
 
 <p align="center">
   <a href="mailto:kunchapugowrisai143@gmail.com"><img src="https://img.shields.io/badge/Email-FF5733?style=for-the-badge&logo=gmail&logoColor=white"></a>
